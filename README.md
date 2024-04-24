@@ -33,6 +33,18 @@ The system is a **web application** built with **Vue.js** and **Nuxt** framework
 
 For the **conversational agent**, **DialogFlow** was chosen for its simplicity and scalability. DialogFlow uses intents to map user requests to appropriate actions. **Flora**, the conversational agent in SmartForest, has three main categories of intents: advice (providing information and suggestions to encourage responsible behavior), forest management (handling tasks related to forest management), and guide (providing information about mirror usability, such as tutorials).
 
+## Front-End Overview
+
+<p align="center">
+  <img src="https://github.com/MarcoBendinelli/SmartForest-for-Sustainable-Living/assets/79930488/23b7bfcf-41b0-457a-995d-e0c1c9ab1d0b" alt="image" style="width: 60%;">
+</p>
+
+<p align="center" style="text-align:center;">The Forest mirrors user behavior to illustrate how even small actions can make a difference!</p>
+
+<p align="center">
+  <img src="https://github.com/MarcoBendinelli/SmartForest-for-Sustainable-Living/assets/79930488/cccc5120-1380-4f1b-aacc-16ba20ff944d" alt="image" style="width: 30%;">
+</p>
+
 ## How to start the application
 Go to the project folder
 ```bash
