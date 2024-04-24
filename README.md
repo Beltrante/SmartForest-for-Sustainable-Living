@@ -10,7 +10,7 @@ The mirror displays an **interactive forest**, where users can earn leaves for u
 
 The mirror also provides real-time feedback and personalized recommendations for reducing energy consumption. Overall, Smart Forest hopes to engage users in an interactive and fun way to promote **sustainable energy practices** and raise awareness about the importance of renewable energy.
 
-For a project overview, click [here](Presentation.pdf). For the full documentation, click [here](Design-tech-doc.pdf).
+For a project overview, click [here](doc/Presentation.pdf). For the full documentation, click [here](doc/Design_Tech.pdf).
 
 ## Video Presentation
 
