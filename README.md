@@ -1,4 +1,4 @@
-# SmartForest: A Smart Home Project :house: :leaves:
+# SmartForest: A Smart Home Project :leaves:
 
 <p align="center">
   <img src="https://github.com/MarcoBendinelli/SmartForest-for-Sustainable-Living/assets/79930488/bd5d7294-26cc-4471-837d-82397a7b0073" alt="image" style="width: 30%;">
