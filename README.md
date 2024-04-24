@@ -12,6 +12,8 @@ The mirror also provides real-time feedback and personalized recommendations for
 
 For a project overview, click [here](doc/Presentation.pdf). For the full documentation, click [here](doc/Design_Tech.pdf).
 
+The API for interacting with the Smart Home has been mockup and can be found [here](https://github.com/MarcoBendinelli/Smart-Home-API/tree/main).
+
 ## Video Presentation
 
 https://github.com/MarcoBendinelli/Advanced-User-Interfaces-SmartForest/assets/79930488/7173a529-fc7a-4eeb-805a-1a1764591a24
