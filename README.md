@@ -1,34 +1,25 @@
-<p align="center">
-  <img width="100%" src="https://i.imgur.com/xhzaPe8.png" alt="header" />
-</p>
-<p align="center">
-    <img src="https://i.imgur.com/LdkVjwo.gif" width="180" alt="Politecnico di Milano"/>
-</p>
+# SmartForest: A Smart Home Project
 
-<p align="center">
-  Advanced User Interface - A.Y. 2022/2023
-</p>
+Smart Forest is a collaborative project developed by **Politecnico di Milano** and the energy provider **Edison**. The project aims to develop an application for an **interactive mirror** helping users to easily monitor their energy consumption and encourages them to use renewable energy sources.
 
-# SmartForest - SmartHome Project
+The mirror displays an **interactive forest**, where users can earn leaves for using renewable energy and lose experience points, which is the lifespan of each tree, for using non-renewable energy. These leaves can then be used to purchase, plant, and upgrade trees in order to gain more and more leaves.
 
-## Description
-Smart Forest is a collaborative project developed by Politecnico di Milano and the energy provider Edison. The project aims to create an interactive mirror that helps users to easily monitor their energy consumption and encourages them to use renewable energy sources. The mirror displays an interactive forest, where users can earn leaves for using renewable energy and lose experience points, which is the lifespan of each tree, for using non-renewable energy. These leaves can then be used to purchase and plant new trees in order to gain more and more leaves. The mirror also provides real-time feedback and personalized recommendations for reducing energy consumption. Overall, Smart Forest project hopes to engage users in an interactive and fun way to promote sustainable energy practices and raise awareness about the importance of renewable energy.
+The mirror also provides real-time feedback and personalized recommendations for reducing energy consumption. Overall, Smart Forest hopes to engage users in an interactive and fun way to promote **sustainable energy practices** and raise awareness about the importance of renewable energy.
+
+For a project overview, click [here](Presentation.pdf). For the full documentation, click [here](Design-tech-doc.pdf).
+
+## Video Presentation
+
+https://github.com/MarcoBendinelli/Advanced-User-Interfaces-SmartForest/assets/79930488/7173a529-fc7a-4eeb-805a-1a1764591a24
 
 ## Team members
 | First name    | Last Name   | Email address                     |
 | ----------    | ---------   | ------------------------------    |
-| Luca          | Incarbone   | luca.incarbone@mail.polimi.it     |
-| Lorenzo      | Poretti  | lorenzo.poretti@mail.polimi.it     |
-| Marco      | Bendinelli  | marco.bendinelli@mail.polimi.it     |
-| Matteo      | Beltrante  | matteo.beltrante@mail.polimi.it     |
-| Francesco      | Piferi  | francesco.piferi@mail.polimi.it     |
-
-## Online Documentation
-[Commercial Spot](https://polimi365-my.sharepoint.com/:v:/g/personal/10607871_polimi_it/ESgrSjIkNFxKshzoYNOAw0ABgrhgD0NjK3Pq8Kh86OkaOQ?e=gDFh0m)
-
-[Design document](Design-tech-doc.pdf)
-
-[Presentation](Presentation.pdf)
+| Marco      | Bendinelli  | [@MarcoBendinelli](https://github.com/MarcoBendinelli)     |
+| Matteo      | Beltrante  | [@Beltrante](https://github.com/Beltrante)     |
+| Luca          | Incarbone   | [@lucaincarbone](https://github.com/lucaincarbone)     |
+| Lorenzo      | Poretti  | [@lap98](https://github.com/lap98)     |
+| Francesco      | Piferi  | [@francescopiferi99](https://github.com/francescopiferi99)     |
 
 ## How to start the application
 Go to the project folder
