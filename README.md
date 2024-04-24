@@ -21,6 +21,14 @@ https://github.com/MarcoBendinelli/Advanced-User-Interfaces-SmartForest/assets/7
 | Lorenzo      | Poretti  | [@lap98](https://github.com/lap98)     |
 | Francesco      | Piferi  | [@francescopiferi99](https://github.com/francescopiferi99)     |
 
+## Technology Overview
+
+SmartForest is a home automation system integrated into **MagicMirror2**, which serves as a smart display. MagicMirror2 comes with a built-in _microphone_ and _speaker_ for voice commands to SmartForest, and is powered by a Raspberry Pi. To use SmartForest, the home must have photovoltaic panels and batteries installed to generate and store electricity. SmartForest aims to make users aware of their energy consumption, helping them reduce their carbon footprint and energy costs.
+
+The system is a **web application** built with **Vue.js** and **Nuxt** frameworks. Vue.js allows for flexible and simple user interface creation, while Nuxt provides additional features for server-side operations, resulting in a responsive user interface even on less powerful Raspberry Pi devices.
+
+For the **conversational agent**, **DialogFlow** was chosen for its simplicity and scalability. DialogFlow uses intents to map user requests to appropriate actions. **Flora**, the conversational agent in SmartForest, has three main categories of intents: advice (providing information and suggestions to encourage responsible behavior), forest management (handling tasks related to forest management), and guide (providing information about mirror usability, such as tutorials).
+
 ## How to start the application
 Go to the project folder
 ```bash
