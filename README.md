@@ -1,4 +1,8 @@
-# SmartForest: A Smart Home Project
+# SmartForest: A Smart Home Project :house: :leaves:
+
+<p align="center">
+  <img src="https://github.com/MarcoBendinelli/SmartForest-for-Sustainable-Living/assets/79930488/bd5d7294-26cc-4471-837d-82397a7b0073" alt="image" style="width: 30%;">
+</p>
 
 Smart Forest is a collaborative project developed by **Politecnico di Milano** and the energy provider **Edison**. The project aims to develop an application for an **interactive mirror** helping users to easily monitor their energy consumption and encourages them to use renewable energy sources.
 
